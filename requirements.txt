@@ -1,7 +1,8 @@
 streamlit
 opencv-python-headless
-moviepy
+moviepy==1.0.3
 numpy
 requests
 yt-dlp
+
 
